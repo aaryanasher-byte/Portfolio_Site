@@ -1,0 +1,23 @@
+@media (max-width: 900px) {
+    body {
+        font-size: 15px;
+    }
+
+    nav {
+        text-align: center;
+    }
+    
+    nav a {
+        display: block;
+        margin: 8px 0;
+    }
+
+    main {
+        padding: 15px;
+    }
+    
+    form {
+        width: 95%;
+        padding: 12px;
+    }
+}

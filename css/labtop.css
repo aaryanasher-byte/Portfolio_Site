@@ -1,0 +1,13 @@
+@media (min-width: 900px) {
+    body {
+        font size: 18px;
+    }
+    nav a {
+        margin: 0 25 px;
+    }
+
+    main{
+        max width: 1100px;
+        margin: 0 auto;
+    }
+}
